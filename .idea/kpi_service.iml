@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/HttpRequest/venv" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="bizreal" />
+    <orderEntry type="module" module-name="spiders_test" />
+    <orderEntry type="module" module-name="ETL" />
+    <orderEntry type="module" module-name="flask_sqlalchemy" />
+    <orderEntry type="module" module-name="flask-tutorial" />
+    <orderEntry type="module" module-name="flask-tutorial-2" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../pyproject/ETL/.idea/ETL.iml" filepath="$PROJECT_DIR$/../../pyproject/ETL/.idea/ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bizreal/.idea/bizreal.iml" filepath="$PROJECT_DIR$/../bizreal/.idea/bizreal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyproject/flask-tutorial/.idea/flask-tutorial.iml" filepath="$PROJECT_DIR$/../../pyproject/flask-tutorial/.idea/flask-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyproject/flask-tutorial-2/.idea/flask-tutorial-2.iml" filepath="$PROJECT_DIR$/../../pyproject/flask-tutorial-2/.idea/flask-tutorial-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyproject/flask_sqlalchemy/.idea/flask_sqlalchemy.iml" filepath="$PROJECT_DIR$/../../pyproject/flask_sqlalchemy/.idea/flask_sqlalchemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kpi_service.iml" filepath="$PROJECT_DIR$/.idea/kpi_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyproject/spiders_test/.idea/spiders_test.iml" filepath="$PROJECT_DIR$/../../pyproject/spiders_test/.idea/spiders_test.iml" />
+    </modules>
+  </component>
+</project>
